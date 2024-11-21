@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hamza, SDET @ Salla
+- 👋 Hi, I’m Hamza, Sr.SDET @Salla
 - 🏆 I'm certified ISTQB Test Automation Engineer
 - 👀 I’m interested in any kind of healthy collaboration with knowledge sharing while having fun
 - 🌱 I’m currently learning Appium & K6 to improve mobile and performance testing skills
